@@ -16,11 +16,11 @@ I had thought about various things relating to the farming industry, like water 
 https://www.kaggle.com/datasets/suvroo/ai-for-sustainable-agriculture-dataset/data
 
 
-
+I had the data and now I needed the architecture. I found a great article on how to build a chatbot using Amazon Bedrock and other AWS Services on a subject of your choice. I used this as a starting point and modified it to suit my needs.
 
 
 https://medium.com/@ajaypan2/building-a-serverless-chatbot-on-aws-with-amazon-bedrock-a-real-world-rag-use-case-a521a0fcc0b5
 
 ![alt text](image.png)
 
-Using the 
+AWS also has a vast amount of help in their solutions library, architecture centre and workshops.
