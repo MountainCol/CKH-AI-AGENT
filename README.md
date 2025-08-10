@@ -11,7 +11,7 @@ To do this, I joined an AI Challenge from Cloud Engineers, an online community w
 
 The challenge was quite open ended- build a chatbot using Amazon Bedrock and other AWS Services on a subject of your choice. 
 
-I had thought about various things relating to the farming industry, like water usage, crop yeild patterns, weather forecasting, etc or the use of IoT devices to monitor soil moisture, water usage, etc. but I decided to go with a different subject where I could leverage a dataset from Kaggle.
+I had thought about various things relating to the farming industry, like water usage, crop yeild patterns, weather forecasting, etc or the use of IoT devices to monitor soil moisture, water usage, etc. but I decided to go with a different subject where I could leverage a dataset from Kaggle and I didn't have the added complexity of calibrating the monitors as well.
 
 https://www.kaggle.com/datasets/suvroo/ai-for-sustainable-agriculture-dataset/data
 
@@ -24,4 +24,11 @@ https://medium.com/@ajaypan2/building-a-serverless-chatbot-on-aws-with-amazon-be
 ![alt text](image.png)
 
 AWS also has a vast amount of help in their solutions library, architecture centre and workshops.
+
+From teh solutions library:
+https://aws.amazon.com/solutions/guidance/building-custom-chatbots-for-order-recommendations-using-agents-for-amazon-bedrock/?did=sl_card&trk=sl_card 
+
+This workshop is related to the project so I have used this a part of my research into designing and production of the chatbot.
+
+https://catalog.us-east-1.prod.workshops.aws/workshops/f5a3879d-086a-4873-b16f-bd4caf5c1623/en-US
 
