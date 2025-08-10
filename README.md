@@ -25,7 +25,7 @@ https://medium.com/@ajaypan2/building-a-serverless-chatbot-on-aws-with-amazon-be
 
 AWS also has a vast amount of help in their solutions library, architecture centre and workshops.
 
-From teh solutions library:
+From the solutions library:
 https://aws.amazon.com/solutions/guidance/building-custom-chatbots-for-order-recommendations-using-agents-for-amazon-bedrock/?did=sl_card&trk=sl_card 
 
 This workshop is related to the project so I have used this a part of my research into designing and production of the chatbot.
