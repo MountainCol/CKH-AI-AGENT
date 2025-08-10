@@ -4,7 +4,7 @@ import kagglehub
 from kagglehub import KaggleDatasetAdapter
 
 # Set the path to the file you'd like to load
-file_path = ""
+file_path = "aws_s3_bucket.ai-agent-chatbot"
 
 # Load the latest version
 df = kagglehub.load_dataset(

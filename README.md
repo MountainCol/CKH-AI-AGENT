@@ -3,7 +3,7 @@
 ## Basic premise
 
 In this world there is a heap of people whowant to do good. I am one of them. 
-Coming from a farming background (my father is a Central Otago, New Zeland High Country merino sheep farmer), I have seen the struggles of farmers and the agricultural sector.
+Coming from a farming background (my parents are Central Otago, New Zeland High Country merino sheep farmers), I have seen the struggles of farmers and the agricultural sector.
 
 I have also seen the power of AI and machine learning in the agricultural sector and want to harness these powerful tools to help the community I grew up in.
 
