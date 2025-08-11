@@ -1,5 +1,8 @@
 
-### Lambda function from AWS Documentation
+# Lambda function from AWS Documentation
+# *** Need to change a few things first to make it more usable for the chatbot ***
+# Found the info from teh AWS Documentation on API gateway and lambda functions
+# https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-lambda-proxy-integrations.html
 
 import json
 
